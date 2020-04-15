@@ -49,7 +49,7 @@
   "dependencies": {
     "colorsys": "latest",
     "json-colorizer": "latest",
-    "safe-buffer": "latest",
+    "safe-buffer": "5.2.0",
     "yargs": "latest"
   },
   "babel": {
