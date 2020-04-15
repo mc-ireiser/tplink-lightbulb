@@ -50,7 +50,7 @@
     "colorsys": "latest",
     "json-colorizer": "latest",
     "safe-buffer": "latest",
-    "yargs": "latest"
+    "yargs": "13.3.2"
   },
   "babel": {
     "presets": [
